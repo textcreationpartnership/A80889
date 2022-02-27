@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of Lord Governour Cromwel concerning the citizens of London, York, Lincoln, Gloucester, Bristoll, and all other cities, corporations, and market-towns, within the territories of England, and dominion of Wales, and his vow and protestation touching the aforsaid places, and the people of England, upon his crossing the Irish seas with one hundred sayl of ships. Also, Prince Charles His letter to the said Lord Governour Cromwell, and his desires and propositions for peace. Perused and examined, and appointed to be printed and published without interruption or molestation.</title>
+            <author>Cromwell, Oliver, 1599-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80889</idno>
+            <idno type="STC">Wing C7059</idno>
+            <idno type="STC">Thomason E571_19</idno>
+            <idno type="STC">ESTC R206116</idno>
+            <idno type="EEBO-CITATION">99865296</idno>
+            <idno type="PROQUEST">99865296</idno>
+            <idno type="VID">165353</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80889)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165353)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 88:E571[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of Lord Governour Cromwel concerning the citizens of London, York, Lincoln, Gloucester, Bristoll, and all other cities, corporations, and market-towns, within the territories of England, and dominion of Wales, and his vow and protestation touching the aforsaid places, and the people of England, upon his crossing the Irish seas with one hundred sayl of ships. Also, Prince Charles His letter to the said Lord Governour Cromwell, and his desires and propositions for peace. Perused and examined, and appointed to be printed and published without interruption or molestation.</title>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Oreton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Aug. 23. 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver --  1599-1658 --  Early works to 1800.</term>
+               <term>Ormonde, James Butler, --  Duke of, 1610-1688 --  Early works to 1800.</term>
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165353:1" rendition="simple:additions"/>
+            <p>THE DECLARATION Of the Lord Governour CROMWEL <hi>CONCERNING</hi> The Citizens of
+<list>
+                  <item>LONDON,</item>
+                  <item>YORK,</item>
+                  <item>LINCOLN,</item>
+                  <item>GLOVCESTER,</item>
+                  <item>BRISTOLL,</item>
+               </list>
+            </p>
+            <p>AND All other Cities, Corporations, and Market-Towns, with<g ref="char:EOLhyphen"/>in the Territories of <hi>England,</hi> and Dominion of <hi>Wales,</hi> and his Vow and Proteſtation touching the afore<g ref="char:EOLhyphen"/>ſaid places, and the people of <hi>England,</hi> upon his croſſing the Iriſh Seas with one hundred Sayl of Ships.</p>
+            <p>
+               <hi>ALSO,</hi> Prince <hi>Charles</hi> His Letter to the ſaid Lord Governour <hi>Cromwell,</hi> and his Deſires and Propoſitions for PEACE.</p>
+            <p>Peruſed and examined, and appointed to be printed and publiſhed without interruption or molestation.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>G. Oreton. Aug.</hi> 23. 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:165353:2"/>
+            <pb n="1" facs="tcp:165353:2"/>
+            <head>THE DECLARATION Of the Lord Governour CROMWEL TO The Citiſens of <hi>London, York, Lincoln, Glouceſter, Briſtoll,</hi> and all other Cities, Corporations, and Market-towns, within the Territories of <hi>England,</hi> and Do<g ref="char:EOLhyphen"/>minion of <hi>WALES.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Lord hath brought his People our of the Houſe of Bondage, and by his Almigh<g ref="char:EOLhyphen"/>ty arm made more viſible his evident demon<g ref="char:EOLhyphen"/>ſtrations in owning of his Cauſe, for the aſ<g ref="char:EOLhyphen"/>ſerting and recovery of the juſt Rights and Liberties of the people of this <hi>Nation,</hi> with the eſtabliſh<g ref="char:EOLhyphen"/>ment of Truth and Righteouſneſſe, and ſuppreſſion and re<g ref="char:EOLhyphen"/>movall
+<pb n="2" facs="tcp:165353:3"/>of tyranny, and all the effects of it. And ſeriouſly conſidering the great mercies, and miracles of victory and deliverances which hath accompanied us even from the hand of our mercifull God, ſince our firſt engagement with the common enemy, cannot I hope, be ſo far out of either the ſenſe or memory of any good Patriot as to need a capitulation or rehearfall, he hath made us to tryumph over our enemies, and wherein they dealt proudly, he was above them, giving them leave oft times to ſwell their waves, that he might ſet them limits, and ſay unto them, hi<g ref="char:EOLhyphen"/>therto ſhall you come, and no further. In conſideration of all which, his Lordſhip the Lord Governour <hi>Cromwell,</hi> hath declared a manifeſtation of his high &amp; extraordinary ſenſe of ſo many ſignall bleſſings from time to time which hath bin ſhowr'd down upon the Armies in <hi>England;</hi> and to the end, that his omnipotent hand and divine Sword of protec<g ref="char:EOLhyphen"/>tion may ſtill be preſent with them, his Lordſhip (together with all his Officers and Souldiers) hath earneſtly beſought the Lord by prayer, for a further bleſſing upon them, in the great and preſent Work of <hi>Ireland,</hi> and that he will ſtill be pleaſed to ſtand by them in the defence of his Cauſe, and to give them ſpirits of courage and magnanimity, to fight his Battel under the Banner of Jeſus Chriſt, to the honour and glory of his great Name, and the peace and tranquility of all thoſe who lie under the inſupportable burden of af<g ref="char:EOLhyphen"/>fliction in <hi>England</hi> and <hi>Ireland.</hi> And that it may appear to the Word, his pure and ſpotleſſe integrity to the Weale<g ref="char:EOLhyphen"/>publque of this Nation, his Lordſhip further declared the reality of his preſent engagement againſt the bloud-thirſty Iriſh, and if it pleaſe God to crown his endeavours with ex<g ref="char:EOLhyphen"/>pected happy ſucceſs, all his poor Country-men under op<g ref="char:EOLhyphen"/>preſſion ſhall find the fruits thereof.</p>
+            <pb n="3" facs="tcp:165353:3"/>
+            <p> Proteſting, That no means ſhall be (by him) left unaſ<g ref="char:EOLhyphen"/>ſayed, that may prove inſtrumentall for the propagation and advancement of free Trade and Commerce to the Ci<g ref="char:EOLhyphen"/>ty of <hi>London,</hi> and all other Cities, Corporations, Market<g ref="char:EOLhyphen"/>towns, and Cinque Ports whatſoever, within the Territo<g ref="char:EOLhyphen"/>ries of <hi>England,</hi> and Dominion of <hi>Wales.</hi>
+            </p>
+            <p>His Lordſhip after ſome further Conference with the Officers of the Army, and Gentlemen of the Country, ſoon haſted aboard, where (with a pleaſant Gale of Wind) he hoyſted Sayl, and in few hours came within ſight of the Iriſh Cliffs, where the raging Billows ſeem'd turbulent, but ſoon became calm, and (as we hea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) many of our ſhips are ſafely arrived in the Bay, the Report being frequent, that the Lord Governour, and many of his Sons of <hi>Mars,</hi> are landed in tryumph at the City of <hi>Dublin.</hi>
+            </p>
+            <p>Such a Fleet (conſiſting of above one hundred Sayle) hath not been ſeen on the Iriſh Neptune theſe many years, who on a fair Sun-ſhine day appeared to each mans Eye like a great Wood, ſurrounded with many pleaſant Hills and Dales.</p>
+            <p>Some report the Marqueſſe of <hi>Ormond</hi> to be fallen down neer Dublin with an Army of 15000 Horſe and Foot, to prevent the landing of the Engliſh forces; the truth wherof I ſhall at preſent wave, it ſeeming very incredulons, by rea<g ref="char:EOLhyphen"/>ſon that the Lord <hi>Inchiquin</hi> ſwels in envy againſt the Mar<g ref="char:EOLhyphen"/>queſſe, for his late miſdemeanours and neglect, and as ſome affirm, hath ſent a Challenge to him, to diſpute revenge in the field.</p>
+            <closer>
+               <dateline>Bewmorris <date>19. Aug. 1649.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:165353:4"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>BY an Expreſſe yeſterday from the Lord Governor <hi>Cromwell,</hi> we hear, that he is got ſafely into the Har<g ref="char:EOLhyphen"/>bour at <hi>Dublin,</hi> and hath landed two or three Regi<g ref="char:EOLhyphen"/>ments of the foot, the horſe being alſo craning out of the ſhips as faſt as poſſible they can: its ſaid, that his Lordſhip (at his landing) were entertained with a great volley from the great Guns in the City. And a little before his preſence Col. <hi>Jones</hi> ſent forth a party of horſe and foot to take in <hi>Droghedah;</hi> who upon ſummoning thereof, the Lord <hi>Moor</hi> returned a very peremptory anſwer, and diſputed the place with great reſoluteneſſe and gallantry, inſomuch, that many many of them were ſlain upon the place; but at laſt, the con<g ref="char:EOLunhyphen"/>flict grew ſo hot and ſharp, that the enemy began to article and at laſt obtained conditions to march away with ſword and piſtoll, upon the ſurrender of the town with all the Ordnance, Arms and Ammunition. This action coſt us not very dear, our loſſe being eſteemed about 70, whereof 30 ſlain, the reſt wounded; of the enemies about 200.</p>
+            <p>We hear that the Lord <hi>Inchiquin</hi> hath randezvou'd in <hi>Muſter</hi> about 4000 horſe and foot, who ſending a Letter to Gen. <hi>Oneal,</hi> to know whether he would covenant for the declared King of Scotland, &amp;c. received anſwer, that he would not engage againſt the Parl. of <hi>England:</hi> whereupon he advanced with his horſe and foot, fell upon them in their quarters, diſſipated part of the foot, killed many, and took divers priſoners, forcing the reſt to the Bogs and Woods, in which conflict, they give out, that above 1000 fell un<g ref="char:EOLhyphen"/>der the power of their ſword.</p>
+            <p>During which action, Sir <hi>Charles Coot</hi> lay not idle in <hi>Lon<g ref="char:EOLhyphen"/>don-Derry,</hi> but opportunely fore-ſeeing his advantage, ſal<g ref="char:EOLhyphen"/>lyed out, and fell upon Sir <hi>Charles Stuarts</hi> quarters, killed
+<pb n="5" facs="tcp:165353:4"/>many, took divers priſoners, and raiſed the ſiege, with the loſſe of 40 men.</p>
+            <p>The newes is confirmed from <hi>Dublin, Ormond</hi> hath paid dear for his bowzing, <hi>Taff, Preſton,</hi> and he being met toge<g ref="char:EOLhyphen"/>ther, thought they could deſtroy the Parl power, by drin<g ref="char:EOLhyphen"/>king healths to their deſtruction, when its in ſo many words a Bull, whereas Lieu. Gen. Jones came ſoberly upon them, and made them run ſeveral ways: It's ſaid, that in their haſt they fell upon Ballyſhanon, have taken it, and are rallyed, being about twelve thouſand within twelve miles of Dub<g ref="char:EOLhyphen"/>lin and fallen to their old way of diſputing paſſes: which when loſt, they run to the next: they increaſe by the coming of forces to them, and ſay, if they recover not their repu<g ref="char:EOLhyphen"/>tation before <hi>Michaelmas,</hi> they ſhal not keep <hi>Ireland</hi> from a totall reducement within a year.</p>
+            <closer>
+               <dateline>Bristol <date>18. Aug. 1649.</date>
+               </dateline>
+
+            </closer>
+            <postscript>
+               <p>By Letters from the <hi>Hague</hi> thus: ſince the late blow given to <hi>Ormond</hi> by Lieut. Gen. <hi>Jones,</hi> we hear that they are re<g ref="char:EOLhyphen"/>bodying about Kilkeny and Munſter, and that in the ſaid En<g ref="char:EOLhyphen"/>gagement thirteen thouſand of the Princes forces eſcaped, who are gathering together, and randezvouzing in ſeverall places; but the raiſing of the ſiege, and defeating that potent power is joyfully reſcented by many.</p>
+               <p>It is likewiſe reported, that the Princes retinue lately ſat in Councell, whoſe reſult was, That new propoſitions ſhould be ſent to the Parl. of Scotland, <hi>viz.</hi> 1 That his declared Majeſty would wive his aſſent, for the ſetling of Religion, according to the ſolemn League and Covenans.</p>
+               <p n="2">2 That he would wholly apply his Ear to the Councell and Advice of the Eſtates conveened, provided, that reſpect might be had to the tender Conſciences of thoſe who have adhered to or aſſiſted him.</p>
+               <pb n="6" facs="tcp:165353:5"/>
+               <p> But this will hardly be; for he muſt either become a perfect Covenanter, or elſe a deſpiſed Prince.</p>
+               <p>Many of the Royall party have cauſed proclamation to be made for <hi>Charles</hi> the II, for the raiſing of Voluntiers, but few appears in that engagement,</p>
+               <closer>
+                  <dateline>Hague <date>9. Augusti, 1649.</date>
+                  </dateline>
+               </closer>
+            </postscript>
+            <postscript>
+               <p>From whence other Letters make mention, That the Prince (by advice of his Councell) hath ſent a Meſſage to the Marqueſſe of <hi>Ormond,</hi> and the Lord <hi>Inchiquin,</hi> deſiring them to compoſe all diſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erences, to knit their hearts in bro<g ref="char:EOLhyphen"/>therly love and affection, and unanimouſly to unite in all their counſels and conſultations, for the propagation and advancement of their preſent Deſign and Engargement. There is ſome rumour of an incloſed Letter, directed to the Lord Lieutenant <hi>Cromwell,</hi> from Prince <hi>Charles;</hi> the contents whereof, are ſaid to be for a ſpeedy compoſure and reconciliation of all difference, and for the ſetling of peace both in Church and State, &amp;c.</p>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
